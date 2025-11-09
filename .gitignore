@@ -16,7 +16,6 @@ dataset/test/*
 !dataset/test/.gitkeep
 !dataset/Readme.md 
 .tmp_dataset_extract_*
-notebooks/*
 *.csv
 *.pdf
 *.json
@@ -31,3 +30,6 @@ notebooks/*
 *.zip 
 COMPARISON_ANALYSIS.md
 README.copy.md
+*.keras
+cnn_torch/*
+*.npz
